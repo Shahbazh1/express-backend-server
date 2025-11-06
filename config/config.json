@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "485748", 
+    "database": "college",
+    "host": "127.0.0.1",
+    "port": 3306,
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "485748",
+    "database": "college_test",
+    "host": "127.0.0.1",
+    "port": 3306,
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "485748",
+    "database": "college_prod",
+    "host": "127.0.0.1",
+    "port": 3306,
+    "dialect": "mysql"
+  }
+}
